@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZwickN
 - 👀 I’m interested in ... Coding and Shooting
 - 🌱 I’m currently learning ...Java and C++
-- 📫 How to reach me ...neelezwick@gmail.com
+- 📫 How to reach me  neelezwick@gmail.com
 - 😄 Pronouns: ...She/her
 
 
